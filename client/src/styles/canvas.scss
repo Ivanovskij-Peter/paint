@@ -1,0 +1,13 @@
+@import "./veriables.scss";
+
+.canvas {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+canvas {
+  border: 2px solid black;
+  background-color: white;
+}
